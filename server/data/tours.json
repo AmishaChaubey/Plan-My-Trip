@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "1",
+        "name": "London to Dubai Summer Special",
+        "from": "London",
+        "to": "Dubai",
+        "image": "https://images.unsplash.com/photo-1660241255695-2c928ab979e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Enjoy Dubai with our special London to Dubai package!",
+        "price": 899.0,
+        "duration": "6 Days",
+        "rating": 4.6,
+        "availableDates": [
+            "2025-07-01",
+            "2025-07-02",
+            "2025-07-03"
+        ]
+    },
+    {
+        "_id": "3",
+        "name": "New York to Paris Getaway",
+        "from": "New York",
+        "to": "Paris",
+        "image": "https://images.pexels.com/photos/1530259/pexels-photo-1530259.jpeg",
+        "description": "Explore the city of love from NYC.",
+        "price": 1299.0,
+        "duration": "7 Days",
+        "rating": 4.8,
+        "availableDates": [
+            "2025-08-05",
+            "2025-08-10"
+        ]
+    },
+    {
+        "_id": "5",
+        "name": "Tokyo to istanbul Cultural Tour",
+        "from": "Tokyo",
+        "to": "istanbul",
+        "image": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg",
+        "description": "Experience Japanese culture and heritage.",
+        "price": 750.0,
+        "duration": "5 Days",
+        "rating": 4.7,
+        "availableDates": [
+            "2025-09-01",
+            "2025-09-05"
+        ]
+    },
+    {
+        "_id": "8",
+        "name": "Rome to Bangkok Romantic Cruise",
+        "from": "Rome",
+        "to": "Bangkok",
+        "image": "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg",
+        "description": "Romantic gondola rides and beautiful canals.",
+        "price": 699.0,
+        "duration": "5 Days",
+        "rating": 4.9,
+        "availableDates": [
+            "2025-09-10",
+            "2025-09-12"
+        ]
+    },
+    {
+        "_id": "9",
+        "name": "Sydney to Melbourne City Tour",
+        "from": "Sydney",
+        "to": "Melbourne",
+        "image": "https://example.com/sydney-melbourne.jpg",
+        "description": "Modern cities and art culture.",
+        "price": 599.0,
+        "duration": "4 Days",
+        "rating": 4.6,
+        "availableDates": [
+            "2025-08-14",
+            "2025-08-18"
+        ]
+    },
+    {
+        "_id": "17",
+        "name": "Dubai to Cairo Ancient Wonders",
+        "from": "Dubai",
+        "to": "Cairo",
+        "image": "https://example.com/dubai-cairo.jpg",
+        "description": "Experience desert and pyramids.",
+        "price": 899.0,
+        "duration": "5 Days",
+        "rating": 4.4,
+        "availableDates": [
+            "2025-07-25",
+            "2025-07-27"
+        ]
+    },
+    {
+        "_id": "18",
+        "name": "Istanbul to Athens Historic Trail",
+        "from": "Istanbul",
+        "to": "Athens",
+        "image": "https://example.com/istanbul-athens.jpg",
+        "description": "Explore Ottoman and Greek legacy.",
+        "price": 649.0,
+        "duration": "5 Days",
+        "rating": 4.5,
+        "availableDates": [
+            "2025-09-15",
+            "2025-09-18"
+        ]
+    },
+    {
+        "_id": "19",
+        "name": "Paris to Nice French Riviera",
+        "from": "Paris",
+        "to": "Nice",
+        "image": "https://example.com/paris-nice.jpg",
+        "description": "Luxury, beaches, and wine!",
+        "price": 749.0,
+        "duration": "5 Days",
+        "rating": 4.7,
+        "availableDates": [
+            "2025-08-15",
+            "2025-08-17"
+        ]
+    }
+]
